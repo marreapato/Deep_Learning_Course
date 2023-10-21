@@ -7,6 +7,7 @@ https://www.youtube.com/watch?v=lhrCz6t7rmQ
  - acf in python: https://www.alpharithms.com/autocorrelation-time-series-python-432909/
  - decomposition in python https://machinelearningmastery.com/decompose-time-series-data-trend-seasonality/
  - https://otexts.com/fpp2/tspatterns.html cycles
+ - stl decomposition: https://www.statsmodels.org/dev/examples/notebooks/generated/stl_decomposition.html
 
  - Annual Analysis: If you set the period to 365, you are essentially looking at yearly patterns in your data. You would be analyzing or modeling the data with a focus on identifying trends, seasonality, or other recurring patterns that occur on an annual basis. This can be useful for long-term investment or financial planning.
 
