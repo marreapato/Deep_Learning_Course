@@ -5,3 +5,4 @@ https://medium.com/@nafiu.dev/stock-market-prediction-using-lstm-will-the-price-
 https://www.youtube.com/watch?v=lhrCz6t7rmQ
 
  - acf in python: https://www.alpharithms.com/autocorrelation-time-series-python-432909/
+ - decomposition in python https://machinelearningmastery.com/decompose-time-series-data-trend-seasonality/
