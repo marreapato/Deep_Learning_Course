@@ -7,3 +7,7 @@ https://www.youtube.com/watch?v=lhrCz6t7rmQ
  - acf in python: https://www.alpharithms.com/autocorrelation-time-series-python-432909/
  - decomposition in python https://machinelearningmastery.com/decompose-time-series-data-trend-seasonality/
  - https://otexts.com/fpp2/tspatterns.html cycles
+
+ - Annual Analysis: If you set the period to 365, you are essentially looking at yearly patterns in your data. You would be analyzing or modeling the data with a focus on identifying trends, seasonality, or other recurring patterns that occur on an annual basis. This can be useful for long-term investment or financial planning.
+
+ - Long-Term Forecasting: If you are interested in long-term forecasting, setting a period of 365 means you are making predictions based on the assumption that historical data repeats itself in annual cycles.
