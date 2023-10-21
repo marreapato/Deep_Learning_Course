@@ -9,6 +9,7 @@ https://www.youtube.com/watch?v=lhrCz6t7rmQ
  - https://otexts.com/fpp2/tspatterns.html cycles
  - stl decomposition: https://www.statsmodels.org/dev/examples/notebooks/generated/stl_decomposition.html
  - Why use data window: https://www.linkedin.com/pulse/data-windowing-technique-used-time-series-forecasting-alejandro
+ - Rolling andexpandin window: https://www.youtube.com/watch?v=Tne1e4Scyl4
 
  - Annual Analysis: If you set the period to 365, you are essentially looking at yearly patterns in your data. You would be analyzing or modeling the data with a focus on identifying trends, seasonality, or other recurring patterns that occur on an annual basis. This can be useful for long-term investment or financial planning.
 
