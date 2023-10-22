@@ -12,6 +12,7 @@ https://www.youtube.com/watch?v=lhrCz6t7rmQ
  - Rolling andexpandin window: https://www.youtube.com/watch?v=Tne1e4Scyl4
  - data windows: https://carpentries-incubator.github.io/python-classifying-power-consumption/instructor/03-data-windows.html
  - Difference Between Lag and Window: https://www.quora.com/What-are-the-differences-between-rolling-window-and-lagged-data-in-time-series-forecasting
+ - Lag Features and Window Features https://medium.com/data-science-at-microsoft/introduction-to-feature-engineering-for-time-series-forecasting-620aa55fcab0
 
  - Annual Analysis: If you set the period to 365, you are essentially looking at yearly patterns in your data. You would be analyzing or modeling the data with a focus on identifying trends, seasonality, or other recurring patterns that occur on an annual basis. This can be useful for long-term investment or financial planning.
 
